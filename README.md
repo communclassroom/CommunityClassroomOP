@@ -1,1 +1,2 @@
-# CommunityClassroomOPLavisha Gaur says that this community is amazing.
+# CommunityClassroomOP
+Lavisha Gaur says that this community is amazing.

@@ -1,3 +1,3 @@
 # CommunityClassroomOP
 
-- Al Hera Ahmad is oing to understand git really well
+- Al Hera Ahmad is going to understand git really well soon

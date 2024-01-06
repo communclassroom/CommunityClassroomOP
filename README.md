@@ -1,1 +1,3 @@
 # CommunityClassroomOP
+-chipichipichapachapa
+-dubidubidabadaba

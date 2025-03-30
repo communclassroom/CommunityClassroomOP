@@ -1,0 +1,8 @@
+learn git
+learn Linux
+Learn Docker
+learn kubernetes
+learn Argo CD & GitOPS
+
+Practice daily
+get a bomb job
